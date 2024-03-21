@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**SourabhPawar2810/SourabhPawar2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sourabh Pawar, a Cybersecurity graduate. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🔭 I’m currently working on enhancing my skills in various programming languages and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning more about Network Security, Application Security and their applications in IoT.
+
+👯 I’m looking to collaborate on projects related to cybersecurity, IoT, and software development.
+
+💬 Ask me about my experiences with internships, projects, and technical skills in electronics and programming.
+
+📫 You can reach me via email at pawar.so@northeastern.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/sourabhp28/).
+
+⚡ Fun fact: I enjoy solving puzzles and exploring new hiking trails in my free time!
+
+Feel free to explore my repositories and reach out for any collaborations or discussions!
